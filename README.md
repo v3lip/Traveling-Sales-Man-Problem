@@ -53,7 +53,8 @@ Built with **Python** and **Tkinter**. No external dependencies required.
 Clone the repository:
 
 git clone https://github.com/v3lip/Traveling-Sales-Man-Problem
-cd tsp-visualizer
+
+cd Traveling-Sales-Man-Problem
 
 Run the application:
 python tsp_ui.py
